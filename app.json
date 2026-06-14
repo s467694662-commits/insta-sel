@@ -1,20 +1,19 @@
 {
     "name": "Bin-Checker Bot",
-    "description": "A simple bot to check if the bin is valid or not.",
+    "description": "Telegram bot",
     "keywords": [
-        "Bin",
-        "Bot",
-        "Telegra."
+        "Telegram",
+        "Bot"
     ],
-    "website": "#TODO",
-    "repository": "https://github.com/hackelite01/BinCheckerBot",
+    "website": "",
+    "repository": "https://github.com/اسم_مستودعك",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
+            "description": "8716308332:AAE3SNOPF6gzaxFbhUPKi4NzwApA-4Ucgm4"
         },
         "SUDO_ID": {
-            "description": "A start message for your bot."
+            "description": "nowplop"
         }
     },
     "formation": {
